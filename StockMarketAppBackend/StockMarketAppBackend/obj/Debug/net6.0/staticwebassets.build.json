@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mx58tGHsxunQLm+4ssDFXklnak1MJ1rVqz6fL//3dD0=",
+  "Source": "StockMarketAppBackend",
+  "BasePath": "_content/StockMarketAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
